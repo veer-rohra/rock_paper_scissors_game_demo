@@ -118,13 +118,13 @@ Computer chose: ✂️ scissors
 
 # 🔮 Future Improvements
 
-  [ ] Best of 3 / Best of 5 modes
-  [ ] Persistent score tracking
-  [ ] Colored terminal output
-  [ ] GUI version using Tkinter or Pygame
-  [ ] Smarter AI difficulty levels
-  [ ] Win statistics dashboard
-  [ ] Sound effects integration
+  - [ ] Best of 3 / Best of 5 modes
+  - [ ] Persistent score tracking
+  - [ ] Colored terminal output
+  - [ ] GUI version using Tkinter or Pygame
+  - [ ] Smarter AI difficulty levels
+  - [ ] Win statistics dashboard
+  - [ ] Sound effects integration
 
 ---
 
